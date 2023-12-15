@@ -22,7 +22,7 @@ To-Do Tracker is a robust Single Page Application (SPA) developed using Spring-B
 To run the project locally, follow these steps:
 1. Clone the repository using the command: `git clone https://github.com/your-username/ToDoTracker.git`
 2. Navigate to the project directory: `cd ToDoTracker`
-3. Build and run the backend (Spring-Boot) and frontend (Angular) components as specified in their respective README files.
+3. Build and run the backend (Spring-Boot) and frontend (Angular) components.
 4. Open your browser and visit the provided URL to experience To-Do Tracker.
 
 Enhance your task management experience with To-Do Tracker! 🚀✅
